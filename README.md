@@ -44,3 +44,6 @@ The proposed Waste Management System offers several advantages, including:
 
 Username: admin
 Admin: 1234
+
+![alt text](<Screenshot 2025-12-10 115731.png>) ![alt text](<Screenshot 2025-12-11 160310.png>) ![alt text](<Screenshot 2025-12-11 160451.png>) ![alt text](<Screenshot 2025-12-11 160558.png>) ![alt text](<Screenshot 2025-12-11 161112.png>) ![alt text](<Screenshot 2025-12-11 161301.png>)
+![alt text](<Screenshot 2025-12-10 111033.png>) ![alt text](<Screenshot 2025-12-10 115110.png>) ![alt text](<Screenshot 2025-12-10 115253.png>) ![alt text](<Screenshot 2025-12-10 115407.png>) ![alt text](<Screenshot 2025-12-10 115513.png>) ![alt text](<Screenshot 2025-12-10 115623.png>)
